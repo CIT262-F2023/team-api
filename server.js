@@ -11,3 +11,5 @@ app.get('/gabriel', (_, res) => { res.send('Hello Gabriel') });
 app.get('/michael', (_, res) => { res.send('Hello Michael') });
 
 app.get('/amanda', (_, res) => { res.send('Hello Amanda') });
+
+app.get('/mike', (_, res) => { res.send('Hello Mike') });
